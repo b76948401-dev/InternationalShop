@@ -1,0 +1,1019 @@
+{
+  "users": [
+    {
+      "id": "usr-1789278351936-w7rsk",
+      "fullName": "adib",
+      "username": "adib",
+      "email": "mdadibhaque7@gmail.com",
+      "mobile": "+88001727764515",
+      "country": "Bangladesh",
+      "dob": "2007-04-27",
+      "gender": "Male",
+      "createdAt": "2026-09-13T05:45:51.936Z",
+      "passwordHash": "7ec43aed504992209e2d899afd1c42a618945d03249bb878ab29bdbd243dbe021c9f3ec7263c7d652de023e28b7d3f86ba8f07d661b1a44405fc9a9b9357f85c",
+      "passwordSalt": "70848a55259872e73d62880b9f739ceb",
+      "isAdmin": false
+    },
+    {
+      "id": "usr-1789278553583-y06zt",
+      "fullName": "mdadibhaque7",
+      "username": "mdadibhaque7",
+      "email": "mdadibhaque8@gmail.com",
+      "mobile": "+91727764515",
+      "country": "India",
+      "dob": "2000-06-22",
+      "gender": "Male",
+      "createdAt": "2026-09-13T05:49:13.583Z",
+      "passwordHash": "0814123c11b6aa3f6604a7bf568eb8adc32477208b58aaf268dbef64d11c50f7e5df98127a28d0e45ad9723bc150f4a4a36941f2759d55bb59e9b0b0c4e0ee65",
+      "passwordSalt": "0adbf5ec6814f192ed354da6845f13b4",
+      "isAdmin": false
+    },
+    {
+      "id": "user-bd-demo",
+      "fullName": "Tanvir Hasan",
+      "username": "tanvir_bd",
+      "email": "bd.demo@example.com",
+      "mobile": "+8801712345678",
+      "country": "Bangladesh",
+      "dob": "1995-06-15",
+      "gender": "Male",
+      "passwordHash": "4cd4df68fe2e842f9af8ed0f1985bc2915868412d02e7167b1e8e09aa6c5102df4a3e5e37cd40deeb9af0d912845743c468d28626d6165c101f3d95d65705cb1",
+      "passwordSalt": "bb23aeed26ff42652f38fe4e5d5909d8",
+      "createdAt": "2026-09-13T06:08:06.478Z"
+    },
+    {
+      "id": "user-in-demo",
+      "fullName": "Priya Sharma",
+      "username": "priya_in",
+      "email": "in.demo@example.com",
+      "mobile": "+919876543210",
+      "country": "India",
+      "dob": "1998-04-20",
+      "gender": "Female",
+      "passwordHash": "530adbdb92dbd4aabff5ff509534206770bdd5ed29841f0a7db58c5c30380325cc2d9cc9f7a299e04620b201534b57d4bf578c68db4e59b0a220fc08d45107c0",
+      "passwordSalt": "7bb0032064052270684d80e13923c6f9",
+      "createdAt": "2026-09-13T06:08:06.551Z"
+    },
+    {
+      "id": "user-pk-demo",
+      "fullName": "Bilal Khan",
+      "username": "bilal_pk",
+      "email": "pk.demo@example.com",
+      "mobile": "+923001234567",
+      "country": "Pakistan",
+      "dob": "1996-11-12",
+      "gender": "Male",
+      "passwordHash": "224a1b5bf9c986e8c358d925a1beffc0fd59bdffd7040486854286b4feeeeddb45597c89e5c996bfbbc70b3aa508782cec3b7986ba36828b0659b7f4fc12e151",
+      "passwordSalt": "8e25e750af276d3ef7aff825a137214a",
+      "createdAt": "2026-09-13T06:08:06.600Z"
+    },
+    {
+      "id": "b34e05de-6bbe-479e-bece-08005970d671",
+      "fullName": "Adib",
+      "username": "Adib7",
+      "email": "mdadibhaque5@gmail.com",
+      "mobile": "+8801727764515",
+      "country": "Bangladesh",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "createdAt": "2026-09-18T08:43:46.532Z",
+      "passwordHash": "9fc6939b1caf9f8efa1d9fdc21d6836ad0ca759aafd4e62e2ef30330e38ca48c62c4dadd7c36042289581704a88e030190dda2277c2b42ecd70818c8e30c3acd",
+      "passwordSalt": "47481f368a76269dc19b060b1e0b2fbe",
+      "isAdmin": false
+    },
+    {
+      "id": "usr-admin-default",
+      "fullName": "Shop Administrator",
+      "username": "admin",
+      "email": "admin@shop.com",
+      "mobile": "+8801711000000",
+      "country": "Bangladesh",
+      "dob": "1990-01-01",
+      "gender": "Male",
+      "passwordHash": "60b915e0f28f43d43d4cc2841bf61d9bb9b0515129529813b16cd1e38adc85bb75be80e285a25912bd8f718761f80cc5f84d97686a500b6e1625f441788bf1ac",
+      "passwordSalt": "63bd8789079e702f25c14f034e6cd95d",
+      "createdAt": "2026-09-18T09:03:31.587Z",
+      "isAdmin": true
+    },
+    {
+      "id": "f163d6e2-d7dc-45a1-8f2e-e9b376d0c129",
+      "fullName": "Tanvir Ahmed 1789722236191",
+      "username": "tanvir236191",
+      "email": "customer.1789722236191@example.com",
+      "mobile": "+8801722236191",
+      "country": "Bangladesh",
+      "dob": "1995-04-12",
+      "gender": "Male",
+      "createdAt": "2026-09-18T09:03:57.250Z",
+      "passwordHash": "db4f2d7ce3a73289da8f8c34e99b8922aa81835324bb3fd0ed4cfa085af74dbad774e94119bd2526e826bef299fb30355e08da39c69e433aa66b08afcb4e5029",
+      "passwordSalt": "5c1da8a355101e3c87b8788e195d3d19",
+      "isAdmin": false
+    },
+    {
+      "id": "846aafb1-f9e5-4922-b44f-60786137a90f",
+      "fullName": "Dina",
+      "username": "dina",
+      "email": "shopcustomer63@gmail.com",
+      "mobile": "+91987473679",
+      "country": "India",
+      "dob": "2000-01-01",
+      "gender": "Female",
+      "createdAt": "2026-09-20T07:51:16.127Z",
+      "passwordHash": "e451022c93d404243de597233ce4ba978b84533868fb161f15cea8919ff325d55da8e1bd4ad9a2b2bbc050cca7d902425bedf98536c13f78480ce0306a42c9fd",
+      "passwordSalt": "3531af5f77dbdd29d8a2568f66bf659d",
+      "isAdmin": false
+    },
+    {
+      "id": "6fd223ff-9580-4df7-b4bc-490dcc97ce98",
+      "fullName": "Adib",
+      "username": "Adib2",
+      "email": "mdadibhaque123@gmail.com",
+      "mobile": "+880187473679",
+      "country": "Bangladesh",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "createdAt": "2026-09-20T08:48:30.508Z",
+      "passwordHash": "c33c2e207e5ababdc16d07678e395ede12ba849d261dd264d3e8c607f250044fe8bdecc3b04c1662e055306d9b580bc5a489024931150825144937f78a41df54",
+      "passwordSalt": "59ede62611e4072577b404e24a7c980a",
+      "isAdmin": false
+    },
+    {
+      "id": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "fullName": "Rifia",
+      "username": "Rifia1",
+      "email": "asdf7@gmail.com",
+      "mobile": "+880123545432",
+      "country": "Bangladesh",
+      "dob": "2000-01-01",
+      "gender": "Female",
+      "createdAt": "2026-09-21T17:16:29.339Z",
+      "passwordHash": "b3a2554d3df28b249506cd1e59c1e1622b77fa521b11a824680464dcbc457c28634366396cb377f393749e1790b34c200b5dcfee05379a8e49e281f87ec3e94e",
+      "passwordSalt": "046fbe993f73c5060f30fab74510fad2",
+      "isAdmin": false
+    }
+  ],
+  "sessions": [
+    {
+      "token": "8d18c0017d8f6684b5c5ea0f7fb853bf28dba2a28f9a46edab4f2e0e75f1723d",
+      "userId": "usr-1789278553583-y06zt",
+      "createdAt": "2026-09-13T05:49:13.584Z",
+      "expiresAt": "2026-10-13T05:49:13.584Z"
+    },
+    {
+      "token": "3400c7c3464b4b8cfb465fb23f513b5f8673dd3423cc500ff392777f4526a73e",
+      "userId": "user-bd-demo",
+      "createdAt": "2026-09-13T06:08:10.655Z",
+      "expiresAt": "2026-10-13T06:08:10.655Z"
+    },
+    {
+      "token": "cc83e40b14a6e215349dbeff21820496fc388bafa92472da8fad86c371398736",
+      "userId": "usr-admin-default",
+      "createdAt": "2026-09-18T09:03:56.177Z",
+      "expiresAt": "2026-10-18T09:03:56.176Z"
+    },
+    {
+      "token": "02974e59e99750ebf0008c1297b262c4b4dfc4801ec4ae2d0a3805a8a212dd1b",
+      "userId": "f163d6e2-d7dc-45a1-8f2e-e9b376d0c129",
+      "createdAt": "2026-09-18T09:03:57.251Z",
+      "expiresAt": "2026-10-18T09:03:57.251Z"
+    },
+    {
+      "token": "ccaa13631d03b02ad4ae7e956326c27665d7731ed1f04392b7f62d44de086fab",
+      "userId": "usr-admin-default",
+      "createdAt": "2026-09-20T07:35:51.451Z",
+      "expiresAt": "2026-10-20T07:35:51.451Z"
+    },
+    {
+      "token": "b9191b208ac354a21005257a96e14a8f42f15b4d86a84d990091898c7676327f",
+      "userId": "6fd223ff-9580-4df7-b4bc-490dcc97ce98",
+      "createdAt": "2026-09-20T08:48:30.509Z",
+      "expiresAt": "2026-10-20T08:48:30.509Z"
+    },
+    {
+      "token": "3c7536601257dee83071bbed5006402f30b8d0ae12a7a84c34602c2d9396ff7f",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "createdAt": "2026-09-21T17:16:29.340Z",
+      "expiresAt": "2026-10-21T17:16:29.340Z"
+    },
+    {
+      "token": "78c9ad898a1417e0f20ae1e175c3620b864d68b824c4818eaecf570c49e86833",
+      "userId": "user-bd-demo",
+      "createdAt": "2026-09-22T11:59:44.413Z",
+      "expiresAt": "2026-10-22T11:59:44.413Z"
+    },
+    {
+      "token": "179c27eb5a75bed0615983dd46545e852c3acd21ec6fc6a7e87482ab75239a7f",
+      "userId": "user-bd-demo",
+      "createdAt": "2026-09-22T11:59:56.301Z",
+      "expiresAt": "2026-10-22T11:59:56.301Z"
+    },
+    {
+      "token": "11425a5f368e65a74dad0ee555e703b6b34e38338a2f70a2f7be9bbb60f0890f",
+      "userId": "user-bd-demo",
+      "createdAt": "2026-09-22T12:00:00.546Z",
+      "expiresAt": "2026-10-22T12:00:00.546Z"
+    },
+    {
+      "token": "72111dd7f04e3e3dc7694c4bf022e64a14d9263372ac8b71a10b77e4854eb6b2",
+      "userId": "usr-admin-default",
+      "createdAt": "2026-09-22T12:55:33.346Z",
+      "expiresAt": "2026-10-22T12:55:33.346Z"
+    }
+  ],
+  "resetCodes": [],
+  "products": [
+    {
+      "id": "prod_leather_briefcase",
+      "name": "Heritage Full-Grain Leather Briefcase",
+      "slug": "heritage-full-grain-leather-briefcase",
+      "brand": "Vanguard Leather",
+      "category": "Electronics",
+      "description": "Handcrafted Italian vegetable-tanned leather briefcase.",
+      "basePriceBDT": 19800,
+      "originalPriceBDT": 24000,
+      "discountPercentage": 18,
+      "stock": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80"
+      ],
+      "product_variants": [],
+      "product_payment_rules": [],
+      "status": "active",
+      "is_archived": false,
+      "direct_payment_required": false,
+      "isCodEligible": true,
+      "isCodAvailable": true,
+      "isFeatured": false,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "features": [],
+      "specifications": [],
+      "shippingInfo": "Ships within 24-48 hours via express courier with real-time tracking.",
+      "returnPolicy": "7-day replacement policy for verified manufacturing defects.",
+      "warrantyInfo": "1-Year Official International Manufacturer Warranty."
+    },
+    {
+      "id": "prod_wireless_earbuds",
+      "name": "SonicWave True Wireless Hi-Fi Earbuds",
+      "slug": "sonicwave-true-wireless-hi-fi-earbuds",
+      "brand": "SonicWave",
+      "category": "Electronics",
+      "description": "LDAC Lossless audio wireless earbuds.",
+      "basePriceBDT": 7800,
+      "originalPriceBDT": 9500,
+      "discountPercentage": 18,
+      "stock": 60,
+      "images": [
+        "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80"
+      ],
+      "product_variants": [],
+      "product_payment_rules": [],
+      "status": "active",
+      "is_archived": false,
+      "direct_payment_required": false,
+      "isCodEligible": true,
+      "isCodAvailable": true,
+      "isFeatured": false,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "features": [],
+      "specifications": [],
+      "shippingInfo": "Ships within 24-48 hours via express courier with real-time tracking.",
+      "returnPolicy": "7-day replacement policy for verified manufacturing defects.",
+      "warrantyInfo": "1-Year Official International Manufacturer Warranty."
+    },
+    {
+      "id": "prod_smartwatch_elite",
+      "name": "Apex Titanium Chrono Smartwatch",
+      "slug": "apex-titanium-chrono-smartwatch",
+      "brand": "Apex",
+      "category": "Electronics",
+      "description": "Grade 5 Titanium smartwatch with sapphire crystal.",
+      "basePriceBDT": 27500,
+      "originalPriceBDT": 32000,
+      "discountPercentage": 14,
+      "stock": 27,
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&auto=format&fit=crop&q=80"
+      ],
+      "product_variants": [],
+      "product_payment_rules": [],
+      "status": "active",
+      "is_archived": false,
+      "direct_payment_required": false,
+      "isCodEligible": true,
+      "isCodAvailable": true,
+      "isFeatured": false,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "features": [],
+      "specifications": [],
+      "shippingInfo": "Ships within 24-48 hours via express courier with real-time tracking.",
+      "returnPolicy": "7-day replacement policy for verified manufacturing defects.",
+      "warrantyInfo": "1-Year Official International Manufacturer Warranty."
+    },
+    {
+      "id": "prod_desk_mat_leather",
+      "name": "Artisan Wool Felt & Top-Grain Leather Desk Pad",
+      "slug": "artisan-wool-felt-top-grain-leather-desk-pad",
+      "brand": "Studio Nord",
+      "category": "Electronics",
+      "description": "Extra-large executive desk pad.",
+      "basePriceBDT": 4900,
+      "originalPriceBDT": 6500,
+      "discountPercentage": 25,
+      "stock": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80"
+      ],
+      "product_variants": [],
+      "product_payment_rules": [],
+      "status": "active",
+      "is_archived": false,
+      "direct_payment_required": false,
+      "isCodEligible": true,
+      "isCodAvailable": true,
+      "isFeatured": false,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "features": [],
+      "specifications": [],
+      "shippingInfo": "Ships within 24-48 hours via express courier with real-time tracking.",
+      "returnPolicy": "7-day replacement policy for verified manufacturing defects.",
+      "warrantyInfo": "1-Year Official International Manufacturer Warranty."
+    },
+    {
+      "id": "prod_1790328531599_nuro",
+      "name": "Adib",
+      "slug": "adib",
+      "brand": "International Shop",
+      "category": "General",
+      "description": "",
+      "basePriceBDT": 1000,
+      "originalPriceBDT": 1000,
+      "discountPercentage": 0,
+      "stock": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&auto=format&fit=crop&q=80"
+      ],
+      "product_variants": [],
+      "product_payment_rules": [],
+      "status": "active",
+      "is_archived": false,
+      "direct_payment_required": false,
+      "isCodEligible": true,
+      "isCodAvailable": true,
+      "isFeatured": false,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "features": [],
+      "specifications": [
+        {
+          "key": "Material",
+          "value": ""
+        },
+        {
+          "key": "Weight",
+          "value": ""
+        },
+        {
+          "key": "Brand",
+          "value": "International Shop"
+        }
+      ],
+      "shippingInfo": "Ships within 24-48 hours via express courier with real-time tracking.",
+      "returnPolicy": "7-day replacement policy for verified manufacturing defects.",
+      "warrantyInfo": "1-Year Official International Manufacturer Warranty."
+    }
+  ],
+  "reviews": [],
+  "addresses": [
+    {
+      "id": "addr-bd-1",
+      "userId": "user-bd-demo",
+      "country": "Bangladesh",
+      "fullName": "Tanvir Hasan",
+      "phone": "+8801712345678",
+      "mobileNumber": "+8801712345678",
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "upazila": "Dhanmondi",
+      "area": "Road 8/A, House 24",
+      "postalCode": "1209",
+      "streetAddress": "House 24, Road 8/A, Dhanmondi R/A",
+      "fullAddress": "House 24, Road 8/A, Dhanmondi R/A, Dhaka 1209",
+      "isDefault": true
+    },
+    {
+      "id": "addr-in-1",
+      "userId": "user-in-demo",
+      "country": "India",
+      "fullName": "Priya Sharma",
+      "phone": "+919876543210",
+      "mobileNumber": "+919876543210",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "district": "Mumbai Suburban",
+      "area": "Bandra West, Hill Road",
+      "pinCode": "400050",
+      "streetAddress": "Flat 402, Sea Pearl Apt, Hill Road",
+      "fullAddress": "Flat 402, Sea Pearl Apt, Hill Road, Bandra West, Mumbai 400050",
+      "isDefault": true
+    },
+    {
+      "id": "addr-pk-1",
+      "userId": "user-pk-demo",
+      "country": "Pakistan",
+      "fullName": "Bilal Khan",
+      "phone": "+923001234567",
+      "mobileNumber": "+923001234567",
+      "province": "Punjab",
+      "city": "Lahore",
+      "district": "Lahore",
+      "area": "Gulberg III, Block B",
+      "postalCode": "54000",
+      "streetAddress": "House 18, Block B-1, Gulberg III",
+      "fullAddress": "House 18, Block B-1, Gulberg III, Lahore 54000",
+      "isDefault": true
+    },
+    {
+      "id": "addr-1790077670252-gcms",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+8800123545432",
+      "mobileNumber": "+8800123545432",
+      "fullAddress": "mvhgbgchujmkgjb",
+      "streetAddress": "mvhgbgchujmkgjb",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Mirpur",
+      "upazilaThana": "Mirpur",
+      "area": "cbnb",
+      "postalCode": "7698",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "7698",
+      "province": "Dhaka"
+    },
+    {
+      "id": "addr-1790077764524-6zov",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+8800123545432",
+      "mobileNumber": "+8800123545432",
+      "fullAddress": "mvhgbgchujmkgjb",
+      "streetAddress": "mvhgbgchujmkgjb",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Mirpur",
+      "upazilaThana": "Mirpur",
+      "area": "cbnb",
+      "postalCode": "7698",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "7698",
+      "province": "Dhaka"
+    },
+    {
+      "id": "addr-1790077803093-hts8",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+8800123545432",
+      "mobileNumber": "+8800123545432",
+      "fullAddress": "mvhgbgchujmkgjb",
+      "streetAddress": "mvhgbgchujmkgjb",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Badda",
+      "upazilaThana": "Badda",
+      "area": "badda",
+      "postalCode": "1212",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "1212",
+      "province": "Dhaka"
+    },
+    {
+      "id": "addr-1790077893446-bmn7",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+8800123545432",
+      "mobileNumber": "+8800123545432",
+      "fullAddress": "mvhgbgchujmkgjb",
+      "streetAddress": "mvhgbgchujmkgjb",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Badda",
+      "upazilaThana": "Badda",
+      "area": "badda",
+      "postalCode": "1212",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "1212",
+      "province": "Dhaka"
+    },
+    {
+      "id": "addr-1790077906285-f4rr",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+8800123545432",
+      "mobileNumber": "+8800123545432",
+      "fullAddress": "mvhgbgchujmkgjb",
+      "streetAddress": "mvhgbgchujmkgjb",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Badda",
+      "upazilaThana": "Badda",
+      "area": "badda",
+      "postalCode": "1212",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "1212",
+      "province": "Dhaka"
+    },
+    {
+      "id": "addr-1790078647264-vc0e",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "country": "Bangladesh",
+      "fullName": "Rifia",
+      "phone": "+880123545432",
+      "mobileNumber": "+880123545432",
+      "fullAddress": "badda",
+      "streetAddress": "badda",
+      "isDefault": false,
+      "division": "Dhaka",
+      "divisionOrState": "Dhaka",
+      "district": "Dhaka",
+      "districtOrCity": "Dhaka",
+      "upazila": "Badda",
+      "upazilaThana": "Badda",
+      "area": "poi",
+      "postalCode": "1212",
+      "state": "Dhaka",
+      "city": "Dhaka",
+      "pinCode": "1212",
+      "province": "Dhaka"
+    }
+  ],
+  "wishlists": {},
+  "orders": [
+    {
+      "id": "BD-2026-11364",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "customerName": "Rifia",
+      "customerEmail": "asdf7@gmail.com",
+      "customerMobile": "+880123545432",
+      "country": "Bangladesh",
+      "currency": "BDT",
+      "exchangeRate": 1,
+      "deliveryAddress": {
+        "id": "addr-1790078647264-vc0e",
+        "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+        "country": "Bangladesh",
+        "fullName": "Rifia",
+        "phone": "+880123545432",
+        "mobileNumber": "+880123545432",
+        "fullAddress": "badda",
+        "streetAddress": "badda",
+        "isDefault": false,
+        "division": "Dhaka",
+        "divisionOrState": "Dhaka",
+        "district": "Dhaka",
+        "districtOrCity": "Dhaka",
+        "upazila": "Badda",
+        "upazilaThana": "Badda",
+        "area": "poi",
+        "postalCode": "1212",
+        "state": "Dhaka",
+        "city": "Dhaka",
+        "pinCode": "1212",
+        "province": "Dhaka"
+      },
+      "items": [
+        {
+          "productId": "prod_desk_mat_leather",
+          "name": "Artisan Wool Felt & Top-Grain Leather Desk Pad",
+          "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&auto=format&fit=crop&q=80",
+          "selectedVariants": {},
+          "quantity": 1,
+          "unitPrice": 4900,
+          "subtotal": 4900
+        }
+      ],
+      "productSubtotal": 4900,
+      "discount": 0,
+      "deliveryCharge": 100,
+      "tax": 0,
+      "totalAmount": 5000,
+      "paymentMethod": "COD",
+      "isCod": true,
+      "amountPaidOnline": 100,
+      "remainingCodAmount": 4900,
+      "paymentStatus": "pending_verification",
+      "paymentProof": {
+        "method": "COD",
+        "senderInfo": "0123545432",
+        "transactionId": "DIK0O9AWF0"
+      },
+      "orderStatus": "Pending",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Placed Successfully",
+          "description": "Order #BD-2026-11364 was recorded on our system.",
+          "timestamp": "2026-09-22T12:04:07.462Z",
+          "completed": true
+        },
+        {
+          "status": "Payment/Delivery Charge Verification",
+          "title": "Delivery Charge Verification",
+          "description": "Delivery charge of ৳100 online payment submitted and pending verification.",
+          "timestamp": "2026-09-22T12:04:07.462Z",
+          "completed": false
+        },
+        {
+          "status": "Processing",
+          "title": "Order Processing & Quality Check",
+          "description": "Items will be inspected and packed in tamper-proof security carton.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Shipped",
+          "title": "Dispatched with Courier",
+          "description": "Parcel handed over to regional courier with real-time tracking.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Delivered",
+          "title": "Out for Delivery & Collection",
+          "description": "Delivery courier will collect remaining COD amount of ৳4900 in cash.",
+          "timestamp": "",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-09-22T12:04:07.462Z"
+    },
+    {
+      "id": "BD-2026-32621",
+      "userId": "user-bd-demo",
+      "customerName": "Tanvir Hasan",
+      "customerEmail": "bd.demo@example.com",
+      "customerMobile": "+8801712345678",
+      "country": "Bangladesh",
+      "currency": "BDT",
+      "exchangeRate": 1,
+      "deliveryAddress": {
+        "id": "addr-1789279702967-uvfp",
+        "userId": "user-bd-demo",
+        "country": "Bangladesh",
+        "fullName": "Tanvir Hasan",
+        "phone": "+8801712345678",
+        "mobileNumber": "+8801712345678",
+        "fullAddress": "GEC Circle, Nasirabad, Chattogram",
+        "streetAddress": "GEC Circle, Nasirabad, Chattogram",
+        "isDefault": false,
+        "division": "Chattogram",
+        "divisionOrState": "Chattogram",
+        "district": "Chattogram",
+        "districtOrCity": "Chattogram",
+        "upazila": "Panchlaish",
+        "upazilaThana": "Panchlaish"
+      },
+      "items": [
+        {
+          "productId": "prod-001",
+          "name": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+          "quantity": 1,
+          "unitPrice": 42500,
+          "subtotal": 42500
+        }
+      ],
+      "productSubtotal": 42500,
+      "discount": 0,
+      "deliveryCharge": 150,
+      "tax": 0,
+      "totalAmount": 42650,
+      "paymentMethod": "cod",
+      "isCod": true,
+      "amountPaidOnline": 150,
+      "remainingCodAmount": 42500,
+      "paymentStatus": "pending_verification",
+      "paymentProof": {
+        "method": "nagad",
+        "senderInfo": "01812345678",
+        "transactionId": "8K9L0M1N2P",
+        "submittedAt": "2026-09-13T06:08:22.967Z"
+      },
+      "orderStatus": "Pending",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Placed Successfully",
+          "description": "Order #BD-2026-32621 was recorded on our system.",
+          "timestamp": "2026-09-13T06:08:22.967Z",
+          "completed": true
+        },
+        {
+          "status": "Payment/Delivery Charge Verification",
+          "title": "Delivery Charge Verification",
+          "description": "Delivery charge of ৳150 online payment submitted and pending verification.",
+          "timestamp": "2026-09-13T06:08:22.967Z",
+          "completed": false
+        },
+        {
+          "status": "Processing",
+          "title": "Order Processing & Quality Check",
+          "description": "Items will be inspected and packed in tamper-proof security carton.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Shipped",
+          "title": "Dispatched with Courier",
+          "description": "Parcel handed over to regional courier with real-time tracking.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Delivered",
+          "title": "Out for Delivery & Collection",
+          "description": "Delivery courier will collect remaining COD amount of ৳42500 in cash.",
+          "timestamp": "",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-09-13T06:08:22.967Z"
+    },
+    {
+      "id": "BD-2026-21890",
+      "userId": "user-bd-demo",
+      "customerName": "Tanvir Hasan",
+      "customerEmail": "bd.demo@example.com",
+      "customerMobile": "+8801712345678",
+      "country": "Bangladesh",
+      "currency": "BDT",
+      "exchangeRate": 1,
+      "deliveryAddress": {
+        "id": "addr-1789279698924-59uw",
+        "userId": "user-bd-demo",
+        "country": "Bangladesh",
+        "fullName": "Tanvir Hasan",
+        "phone": "+8801712345678",
+        "mobileNumber": "+8801712345678",
+        "fullAddress": "House 24, Road 8/A, Dhanmondi, Dhaka 1209",
+        "streetAddress": "House 24, Road 8/A, Dhanmondi, Dhaka 1209",
+        "isDefault": false,
+        "division": "Dhaka",
+        "divisionOrState": "Dhaka",
+        "district": "Dhaka",
+        "districtOrCity": "Dhaka",
+        "upazila": "Dhanmondi",
+        "upazilaThana": "Dhanmondi"
+      },
+      "items": [
+        {
+          "productId": "prod-001",
+          "name": "Sony WH-1000XM5 Wireless Noise-Cancelling Headphones",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+          "quantity": 1,
+          "unitPrice": 42500,
+          "subtotal": 42500
+        }
+      ],
+      "productSubtotal": 42500,
+      "discount": 0,
+      "deliveryCharge": 100,
+      "tax": 0,
+      "totalAmount": 42600,
+      "paymentMethod": "cod",
+      "isCod": true,
+      "amountPaidOnline": 100,
+      "remainingCodAmount": 42500,
+      "paymentStatus": "pending_verification",
+      "paymentProof": {
+        "method": "bkash",
+        "senderInfo": "01712345678",
+        "transactionId": "9J4K2L8M1N",
+        "submittedAt": "2026-09-13T06:08:18.924Z"
+      },
+      "orderStatus": "Pending",
+      "timeline": [
+        {
+          "status": "Order Placed",
+          "title": "Order Placed Successfully",
+          "description": "Order #BD-2026-21890 was recorded on our system.",
+          "timestamp": "2026-09-13T06:08:18.924Z",
+          "completed": true
+        },
+        {
+          "status": "Payment/Delivery Charge Verification",
+          "title": "Delivery Charge Verification",
+          "description": "Delivery charge of ৳100 online payment submitted and pending verification.",
+          "timestamp": "2026-09-13T06:08:18.924Z",
+          "completed": false
+        },
+        {
+          "status": "Processing",
+          "title": "Order Processing & Quality Check",
+          "description": "Items will be inspected and packed in tamper-proof security carton.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Shipped",
+          "title": "Dispatched with Courier",
+          "description": "Parcel handed over to regional courier with real-time tracking.",
+          "timestamp": "",
+          "completed": false
+        },
+        {
+          "status": "Delivered",
+          "title": "Out for Delivery & Collection",
+          "description": "Delivery courier will collect remaining COD amount of ৳42500 in cash.",
+          "timestamp": "",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-09-13T06:08:18.924Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1790078647462",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "title": "Order #BD-2026-11364 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳4900 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-22T12:04:07.462Z",
+      "orderId": "BD-2026-11364"
+    },
+    {
+      "id": "notif-1790078401206",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-14329 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳4900 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-22T12:00:01.206Z",
+      "orderId": "BD-2026-14329"
+    },
+    {
+      "id": "notif-1790078401049",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-41191 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳7800 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-22T12:00:01.049Z",
+      "orderId": "BD-2026-41191"
+    },
+    {
+      "id": "notif-1790078400696",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-63865 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳19800 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-22T12:00:00.696Z",
+      "orderId": "BD-2026-63865"
+    },
+    {
+      "id": "notif-1790078396648",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-67607 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳27500 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-22T11:59:56.648Z",
+      "orderId": "BD-2026-67607"
+    },
+    {
+      "id": "notif-1789279702967",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-32621 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳42500 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-13T06:08:22.967Z",
+      "orderId": "BD-2026-32621"
+    },
+    {
+      "id": "notif-1789279698924",
+      "userId": "user-bd-demo",
+      "title": "Order #BD-2026-21890 Placed",
+      "message": "Your Cash on Delivery order has been registered. Online delivery charge payment is pending verification. Remaining ৳42500 will be collected upon delivery.",
+      "type": "order",
+      "isRead": false,
+      "createdAt": "2026-09-13T06:08:18.924Z",
+      "orderId": "BD-2026-21890"
+    },
+    {
+      "id": "notif-1789278351936",
+      "userId": "usr-1789278351936-w7rsk",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for Bangladesh. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": true,
+      "createdAt": "2026-09-13T05:45:51.936Z"
+    },
+    {
+      "id": "notif-1789278553583",
+      "userId": "usr-1789278553583-y06zt",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for India. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": false,
+      "createdAt": "2026-09-13T05:49:13.583Z"
+    },
+    {
+      "id": "notif-1789721026532",
+      "userId": "b34e05de-6bbe-479e-bece-08005970d671",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for Bangladesh. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": true,
+      "createdAt": "2026-09-18T08:43:46.532Z"
+    },
+    {
+      "id": "notif-1789722237250",
+      "userId": "f163d6e2-d7dc-45a1-8f2e-e9b376d0c129",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for Bangladesh. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": false,
+      "createdAt": "2026-09-18T09:03:57.250Z"
+    },
+    {
+      "id": "notif-1789890676127",
+      "userId": "846aafb1-f9e5-4922-b44f-60786137a90f",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for India. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": false,
+      "createdAt": "2026-09-20T07:51:16.127Z"
+    },
+    {
+      "id": "notif-1789894110508",
+      "userId": "6fd223ff-9580-4df7-b4bc-490dcc97ce98",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for Bangladesh. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": true,
+      "createdAt": "2026-09-20T08:48:30.508Z"
+    },
+    {
+      "id": "notif-1790010989339",
+      "userId": "2d489519-6d1c-498a-a2de-55d66aee5116",
+      "title": "Welcome to International Shop!",
+      "message": "Your customer account has been created for Bangladesh. Explore our catalog with localized pricing and reliable delivery.",
+      "type": "account",
+      "isRead": false,
+      "createdAt": "2026-09-21T17:16:29.339Z"
+    }
+  ],
+  "supportMessages": [
+    {
+      "id": "supp-1790077030071-6m7k7",
+      "ticketNumber": "TKT-183892",
+      "userId": null,
+      "name": "Rifia",
+      "email": "asdf7@gmail.com",
+      "phone": "+880123545432",
+      "country": "Bangladesh",
+      "subject": "Order Issue / Not Received - Inquiry from Rifia",
+      "category": "Order Issue / Not Received",
+      "message": "esefdsgcbvcv",
+      "screenshotUrl": null,
+      "orderId": null,
+      "status": "open",
+      "createdAt": "2026-09-22T11:37:10.071Z",
+      "updatedAt": "2026-09-22T11:37:10.071Z"
+    }
+  ]
+}

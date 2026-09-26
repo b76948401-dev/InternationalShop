@@ -1,0 +1,6 @@
+{
+  "name": "International Shop",
+  "description": "International e-commerce platform for Bangladesh, India, and Pakistan featuring localized currencies, delivery charges, COD verification, and order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
